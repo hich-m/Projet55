@@ -1,7 +1,3 @@
--- Migration: Add Exam Approval Workflow
--- Run this script in phpMyAdmin or MySQL CLI
--- Date: 2026-01-18
-
 USE exam_timetable;
 
 -- =====================================================

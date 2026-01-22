@@ -1,23 +1,4 @@
 
-
-1. [Database Schema (DDL)](#database-schema-ddl)
-2. [User Management](#user-management)
-3. [Departments](#departments)
-4. [Formations](#formations)
-5. [Modules](#modules)
-6. [Professors](#professors)
-7. [Students](#students)
-8. [Rooms (Salles)](#rooms-salles)
-9. [Exams (Examens)](#exams-examens)
-10. [Surveillances](#surveillances)
-11. [Inscriptions (Enrollments)](#inscriptions-enrollments)
-12. [Conflicts](#conflicts)
-13. [Statistics & Dashboard Queries](#statistics--dashboard-queries)
-14. [Scheduling Algorithm Queries](#scheduling-algorithm-queries)
-15. [Approval Workflow Queries](#approval-workflow-queries)
-
-
-
 ```sql
 -- Users table
 CREATE TABLE users (
@@ -946,5 +927,3 @@ ORDER BY surveillance_count ASC
 ```
 
 ---
-
-*Document generated from source code analysis of the M1PROJET Exam Timetable Management System*
